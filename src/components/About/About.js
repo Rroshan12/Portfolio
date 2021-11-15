@@ -4,7 +4,7 @@ import './style.css'
 function About() {
     return (
         <div className="about-me">
-            <h1>Hi, I am a Roshan,fullstack developer</h1>
+            <h1>Hi, I am a fullstack developer!!</h1>
             <h2>I develop mern website</h2>
             
         </div>
